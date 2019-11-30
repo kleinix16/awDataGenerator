@@ -1,0 +1,27 @@
+{
+    "sql_DB_server": "IXO-MSSQL\\PL",
+    "fir": "LHCC",
+    "ads": ["LHBP", "LHPA", "LHSK", "LHSM", "LHNY", "LHKE"],
+    "aftn_address":"LHBPIBAF",
+
+    "NOTAM" : {
+        "sql_database" : "ais_ead",
+        "msg" : [
+            {   "series": "A",
+                "type": "N",
+                "qcode": "XXXX", 
+                "valid_from": "",
+                "valid_to": "",
+                "deswcription": "TEST NOTAM - EN - FILTER"
+            },
+            {   "series": "B",
+                "type": "N",
+                "qcode": "XXXX", 
+                "valid_from": "",
+                "valid_to": "",
+                "deswcription": "TEST NOTAM -  EN - FILTER"
+            }
+        ]
+    }
+
+}

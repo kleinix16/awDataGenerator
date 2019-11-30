@@ -1,0 +1,16 @@
+{
+    "sqltools.connections": [
+        {
+            "connectionTimeout": 30,
+            "database": "ibaf",
+            "dialect": "MSSQL",
+            "isActive": false,
+            "isConnected": false,
+            "name": "MSSQL-PL",
+            "password": "rsys007",
+            "port": 14340,
+            "server": "176.102.98.6",
+            "username": "rsys"
+        }
+    ]
+}
